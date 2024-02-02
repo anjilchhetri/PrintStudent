@@ -13,6 +13,7 @@ public class Student
    private String name; // Encapsulation principle
    private int age;// getters /setters method
    private int semno;
+   private int grade;
     /**
      * @return the name
      */
