@@ -4,7 +4,7 @@
  */
 package printstudentdetails;
 
-/** Feb 2,2024
+/** Feb 2,2024 Sheridan
  * model  - the student entity 
  * @author srinivsi srivi
  */
